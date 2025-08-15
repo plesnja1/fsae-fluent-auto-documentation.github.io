@@ -1,0 +1,334 @@
+    C:\Program Files\ANSYS Inc\v251\commonfiles\CPython\3_10\winx64\Release\python\..\Ansys\TGrid\CADReaders.py started by plesnik on ws-tse-z4-05 winx64 on Wed Aug  6 12:42:20 2025
+    using Python 3.10.14 (remotes/origin/fc7956328a802ed00ef70afbb7b8a7c425877c24-dirty:fc795632, Oct 29 2) [MSC v.1941 64 bit (AMD64)]
+    
+    using Ansys.Meshing.FieldMesher build Nov 25 2024 23:35:09
+    
+    running ANSYS TGrid CADToTGridConverter ...
+    setting up parameters ...
+    setting up parameters done.
+    running conversion ...
+    converting 1 file(s) from Workbench to FLTG using output path 'D:/plesnik/PyFluent/Versions/v0.241/FSAE-Fluent-Automatisation/Formula24.stp.fmdb'
+    converting file 'Formula24.stp' (1 of 1) from Workbench to FLTG using output path 'D:/plesnik/PyFluent/Versions/v0.241/FSAE-Fluent-Automatisation', saving FMDB file(s), skipping export of FLTG file(s)
+    importing data ...
+    importing meshing model from PartMgr from file 'D:/plesnik/PyFluent/Versions/v0.241/FSAE-Fluent-Automatisation/Formula24.stp' ...
+    setting enclosure and symmetry processing to False
+    setting stitch type to PROGRAMTOLERANCE
+    setting transfer attributes to True
+    setting attribute prefixes to ''
+    setting transfer named selections to True
+    setting named selection prefixes to ''
+    setting mixed import resolution type to 'SolidAndSurface'
+    setting target application to 'FluentMeshing'
+    setting attach flattened assembly flag to False
+    attaching to assembly ...
+    attaching to assembly done in 7.917 [s]
+    processing assembly 'D:\plesnik\PyFluent\Versions\v0.241\FSAE-Fluent-Automatisation\Formula24.stp' with ID 1
+    length unit = [mm]
+    processing part 'BOIs' with ID 149
+    processing part 'BOIs' with ID 151
+    processing part 'BOIs' with ID 153
+    processing part 'BOIs' with ID 155
+    processing part 'BOIs' with ID 157
+    processing assembly 'Vehicle' with ID 2
+    length unit = [mm]
+    processing part 'w' with ID 145
+    processing part 'w' with ID 147
+    processing assembly 'su' with ID 3
+    length unit = [mm]
+    processing assembly 'g2_f_sus' with ID 4
+    length unit = [mm]
+    processing part 'Product01508576' with ID 6
+    processing part 'Product01508576' with ID 8
+    processing part 'Product01508576' with ID 10
+    processing part 'Product01508576' with ID 12
+    processing part 'front_cooling' with ID 14
+    processing part 'front_cooling' with ID 16
+    processing part 'tierod2' with ID 18
+    processing part 'tierod2' with ID 20
+    processing part 'g2_f_sus-0' with ID 22
+    processing part 'g2_f_sus-1' with ID 24
+    processing part 'g2_f_sus-2' with ID 26
+    processing part 'g2_f_sus-3' with ID 28
+    processing part 'g2_f_sus-4' with ID 30
+    processing part 'g2_f_sus-5' with ID 32
+    processing part 'g2_f_sus-6' with ID 34
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:143.159.175'
+    processing assembly 'g3_r_sus' with ID 35
+    length unit = [mm]
+    processing part 'Product01508579' with ID 37
+    processing part 'Product01508579' with ID 39
+    processing part 'Product01508579' with ID 41
+    processing part 'Product01508579' with ID 43
+    processing part 'Product01508579' with ID 45
+    processing part 'g3_r_sus-7' with ID 47
+    processing part 'g3_r_sus-8' with ID 49
+    processing part 'g3_r_sus-9' with ID 51
+    processing part 'g3_r_sus-10' with ID 53
+    processing part 'g3_r_sus-11' with ID 55
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Color:175.159.143'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Color:175.159.143'
+    processing named selection 'Color:143.143.175'
+    processing assembly 'ch' with ID 56
+    length unit = [mm]
+    processing part 'antenna' with ID 80
+    processing part 'antenna' with ID 82
+    processing part 'antenna' with ID 84
+    processing part 'ch-14' with ID 86
+    processing assembly 'mainhoop' with ID 57
+    length unit = [mm]
+    processing part 'CTU24_05_01_00_00.1' with ID 59
+    processing part 'CTU24_05_01_00_00.1' with ID 61
+    processing part 'CTU24_05_01_00_00.1' with ID 63
+    processing part 'mainhoop-12' with ID 65
+    processing named selection 'Layer:10'
+    processing named selection 'Color:175.159.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:159.175.143'
+    processing assembly 'chassis' with ID 66
+    length unit = [mm]
+    processing part 'chassis_OP_1' with ID 68
+    processing part 'chassis_OP_1' with ID 70
+    processing part 'chassis_OP_1' with ID 72
+    processing part 'chassis_OP_1' with ID 74
+    processing part 'chassis_OP_1' with ID 76
+    processing part 'chassis-13' with ID 78
+    processing named selection 'Layer:10'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Layer:10'
+    processing named selection 'Color:175.159.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:143.175.143'
+    processing assembly 'a' with ID 87
+    length unit = [mm]
+    processing assembly 'sw' with ID 88
+    length unit = [mm]
+    processing part 'CTU24_07_07_00_00' with ID 90
+    processing part 'CTU24_02_07_01_03' with ID 92
+    processing part 'CTU24_02_07_01_03' with ID 94
+    processing part 'CTU24_02_07_01_03' with ID 96
+    processing part 'CTU24_02_07_01_03' with ID 98
+    processing part 'CTU24_02_07_01_03' with ID 100
+    processing part 'CTU24_02_07_01_03' with ID 102
+    processing part 'CTU24_02_07_01_03' with ID 104
+    processing part 'CTU24_02_07_01_03' with ID 106
+    processing part 'CTU24_02_07_01_03' with ID 108
+    processing part 'CTU24_02_07_01_03' with ID 110
+    processing part 'radiator' with ID 112
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Layer:10'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:175.159.143'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Color:175.143.175'
+    processing assembly 'rw' with ID 113
+    length unit = [mm]
+    processing part 'flaps2' with ID 115
+    processing part 'flaps2' with ID 117
+    processing part 'flaps2' with ID 119
+    processing part 'flaps2' with ID 121
+    processing part 'flaps2' with ID 123
+    processing part 'flaps2' with ID 125
+    processing part 'rw-15' with ID 127
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Color:175.143.159'
+    processing assembly 'fw' with ID 128
+    length unit = [mm]
+    processing assembly 'holder' with ID 129
+    length unit = [mm]
+    processing assembly 'CTU.24_CFD.1.2.3' with ID 130
+    length unit = [mm]
+    processing part 'g6_f_wing_4' with ID 132
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing assembly 'flaps' with ID 133
+    length unit = [mm]
+    processing part 'fw_OP_v1' with ID 135
+    processing part 'fw_OP_v1' with ID 137
+    processing part 'CTU24_07_06_00_00' with ID 139
+    processing part 'CTU24_07_06_00_00' with ID 141
+    processing part 'CTU24_07_06_00_00' with ID 143
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Layer:10'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:175.159.143'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Color:175.159.143'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Layer:10'
+    processing named selection 'Color:143.175.143'
+    processing named selection 'Layer:9'
+    processing named selection 'LayerName:9'
+    processing named selection 'Color:175.143.159'
+    processing named selection 'Color:159.143.175'
+    processing named selection 'Color:175.175.143'
+    processing named selection 'Color:175.143.143'
+    processing named selection 'Color:175.143.175'
+    processing named selection 'Color:143.175.159'
+    processing named selection 'Color:143.175.175'
+    processing named selection 'Color:143.159.175'
+    processing named selection 'Color:159.175.143'
+    processing named selection 'Color:175.159.143'
+    processing named selection 'Color:143.143.175'
+    processing named selection 'Color:165.165.165'
+    processing data ...
+    removing named collections of entities ...
+    removed named collections:  'Layer:10' 'Color:143.175.143' 'Layer:9' 'LayerName:9' 'Color:175.143.159' 'Color:159.143.175' 'Color:175.175.143' 'Color:175.143.143' 'Color:175.143.175' 'Color:143.175.159' 'Color:143.175.175' 'Color:143.159.175' 'Color:159.175.143' 'Color:175.159.143' 'Color:143.143.175' 'Color:165.165.165'
+        Data information
+            Meshing model
+                Attributes:
+                    'LengthUnit': '[mm]'
+                Entity summary:
+                    Component: 86
+                    Body     : 71
+                    Shell    : 71
+                    Face     : 1930
+                    Loop     : 1973
+                    Edge     : 4663
+                    Vertex   : 2897
+                    Surface  : 1930
+                    Curve    : 4663
+                Tessellation summary:
+                    Face facets  : 150331
+                    Edge segments: 105732
+                Bounding box:
+                    (-2530.083251953125, -720.3602905273438, -200) x (7469.9169921875, 1500, 2688.25195313)
+                Assembly component hierarchy:
+                    'D:\plesnik\PyFluent\Versions\v0.241\FSAE-Fluent-Automatisation\Formula24.stp'
+                      'BOIs'
+                      'BOIs'
+                      'BOIs'
+                      'BOIs'
+                      'BOIs'
+                      'Vehicle'
+                        'w'
+                        'w'
+                        'su'
+                          'g2_f_sus'
+                            'Product01508576'
+                            'Product01508576'
+                            'Product01508576'
+                            'Product01508576'
+                            'front_cooling'
+                    [... 70 more ...]
+    
+    
+    exporting meshing model in H5Dump format to file 'D:/plesnik/PyFluent/Versions/v0.241/FSAE-Fluent-Automatisation\Formula24.stp.fmdb' ...
+    running conversion done.
+    running ANSYS TGrid CADToTGridConverter done.
+    ran ANSYS TGrid CADToTGridConverter in 9.858 [s]
