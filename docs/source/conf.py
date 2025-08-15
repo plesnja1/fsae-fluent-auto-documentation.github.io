@@ -15,18 +15,18 @@ release = '0.241'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    "jupyter_sphinx",
-    "numpydoc",
-    "autodocsumm",
+    #"jupyter_sphinx",
+    #"numpydoc",
+    #"autodocsumm",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.coverage",
     "sphinx.ext.doctest",
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
-    "sphinx_autodoc_typehints",
-    "sphinx_copybutton",
-    "sphinx_toggleprompt",
+    #"sphinx_autodoc_typehints",
+    #"sphinx_copybutton",
+    #"sphinx_toggleprompt",
 ]
 
 
@@ -71,8 +71,8 @@ source_suffix = ".rst"
 # The master toctree document.
 master_doc = "index"
 
-copybutton_prompt_text = r">>> ?|\.\.\. "
-copybutton_prompt_is_regexp = True
+#copybutton_prompt_text = r">>> ?|\.\.\. "
+#copybutton_prompt_is_regexp = True
 
 
 toggleprompt_offset_right = 35
