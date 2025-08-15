@@ -18,7 +18,7 @@ python:
    install:
    - requirements: docs/requirements.txt
    - method: pip
-     path: .
+     path: 
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
