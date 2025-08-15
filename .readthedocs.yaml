@@ -19,7 +19,7 @@ python:
     - method: pip
       path: .
       extra_requirements:
-        - Furo
+        - furo
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
