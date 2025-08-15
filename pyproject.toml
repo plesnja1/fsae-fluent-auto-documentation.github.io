@@ -6,3 +6,4 @@ build-backend = "flit_core.buildapi"
 name = "autofluent"
 authors = [{name = "plesnja1", email = "plesja1@cvut.cz"}]
 dynamic = ["version", "description"]
+
